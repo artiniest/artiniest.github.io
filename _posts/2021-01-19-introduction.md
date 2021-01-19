@@ -1,6 +1,6 @@
 ---
 layout: post
-title: INTRODUCTION
+title: Introduction
 ---
 
 Hi! My name is Saara Korhonen, and I am a gameplay programmer working at [Random Potion](http://randompotion.com/ "Random Potion"), at Tampere, Finland.
