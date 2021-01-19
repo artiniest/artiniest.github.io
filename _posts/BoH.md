@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Dark Eye: Book of Heroes
+title: BoH
 ---
 
 # The Dark Eye: Book of Heroes
