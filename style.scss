@@ -18,7 +18,7 @@ html {
 }
 
 body {
-  background: $white;
+	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -67,12 +67,10 @@ h4 {
 }
 
 p {
-  text-align: center;
   margin: 15px 0;
 }
 
 a {
-  text-align: center;
   color: $blue;
   text-decoration: none;
 	cursor: pointer;
