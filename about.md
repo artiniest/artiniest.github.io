@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-# Introduction
+## Introduction
 Hi! My name is Saara Korhonen, and I am a gameplay programmer working at [Random Potion](http://randompotion.com/ "Random Potion"), at Tampere, Finland.
 
 I got my start in programming back when I was 17 and studying for my vocational qualifications in IT. When I started the studies, my intention wasn't to start programming, but I gave it a go anyways
 and it lit a spark in me. Today I have professional experience in C#, but I've completed some university courses in HTML & CSS, Javascript and C++.
 Recently I've also dipped my toes into robotics through Arduino projects.
 
-# Skills
+## Skills
 <div class="row">
   <div class="column">
     <h2>Technical Skills</h2>
@@ -37,32 +37,32 @@ Recently I've also dipped my toes into robotics through Arduino projects.
   </div>
 </div>
 
-# Projects
+## Projects
 <div class="row">
 	<div class="column">
-		<img src="./images/BoH.jpg">
+		<img src="images/BoH.jpg">
 		<a href="{{ site.baseurl }}/BoH" title="TDE: BoH">The Dark Eye: Book of Heroes (2020)</a>
 	</div>
 
 	<div class="column">
-		<img src="./images/catspiracy.gif">
+		<img src="images/catspiracy.gif">
 		<h2>CATSPIRACY(2018)</h2>
 	</div>
 </div>
 
 <div class="row">
 	<div class="column">
-		<img src="./images/flood.png">
+		<img src="images/flood.png">
 		<h2>Flood (2017)</h2>
 	</div>
 
 	<div class="column">
-		<img src="./images/purge.png">
+		<img src="images/purge.png">
 		<h2>The Purge (2017)</h2>
 	</div>
 
 	<div class="column">
-		<img src="./images/alg.png">
+		<img src="images/alg.png">
 		<h2>The Apprentice's Last Groove (2017)</h2>
 	</div>
 </div>
