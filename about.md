@@ -39,8 +39,8 @@ Recently I've also dipped my toes into robotics through Arduino projects.
 
 ## Projects
 <div class="row">
-	<div class="column" markdown="1">
-		![alt-text](images/BoH.jpg)
+	<div class="column">
+		<div markdown="1"> ![alt-text](images/BoH.jpg) </div>
 		<a href="{{ site.baseurl }}/BoH" title="TDE: BoH">The Dark Eye: Book of Heroes (2020)</a>
 	</div>
 
