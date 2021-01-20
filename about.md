@@ -40,7 +40,7 @@ Recently I've also dipped my toes into robotics through Arduino projects.
 ## Projects
 <div class="row">
 	<div class="column">
-		<img src="{{site.baseurl}}images/BoH.jpg">
+		<img src="{{site.baseurl}}/images/BoH.jpg">
 		<a href="{{ site.baseurl }}/BoH" title="TDE: BoH">The Dark Eye: Book of Heroes (2020)</a>
 	</div>
 
