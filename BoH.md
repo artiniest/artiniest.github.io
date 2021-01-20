@@ -3,6 +3,8 @@ layout: jobpost
 title: BoH
 ---
 
+![alt-text](./images/BoH.jpg "TDE: BoH cover art")
+
 # The Dark Eye: Book of Heroes
 ## Random Potion, 2018-2020
 
