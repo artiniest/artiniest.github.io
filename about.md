@@ -45,24 +45,24 @@ Recently I've also dipped my toes into robotics through Arduino projects.
 	</div>
 
 	<div class="column">
-		<img src="images/catspiracy.gif">
+		<img src="{{site.baseurl}}/images/catspiracy.gif">
 		<h2>CATSPIRACY(2018)</h2>
 	</div>
 </div>
 
 <div class="row">
 	<div class="column">
-		<img src="images/flood.png">
+		<img src="{{site.baseurl}}/images/flood.png">
 		<h2>Flood (2017)</h2>
 	</div>
 
 	<div class="column">
-		<img src="images/purge.png">
+		<img src="{{site.baseurl}}/images/purge.png">
 		<h2>The Purge (2017)</h2>
 	</div>
 
 	<div class="column">
-		<img src=".images/alg.png">
+		<img src="{{site.baseurl}}/images/alg.png">
 		<h2>The Apprentice's Last Groove (2017)</h2>
 	</div>
 </div>
