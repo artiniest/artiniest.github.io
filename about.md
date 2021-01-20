@@ -40,7 +40,7 @@ Recently I've also dipped my toes into robotics through Arduino projects.
 ## Projects
 <div class="row">
 	<div class="column">
-		<div markdown="1"> ![alt-text](images/BoH.jpg) </div>
+		<img src="{{site.baseurl}}images/BoH.jpg">
 		<a href="{{ site.baseurl }}/BoH" title="TDE: BoH">The Dark Eye: Book of Heroes (2020)</a>
 	</div>
 
@@ -62,7 +62,7 @@ Recently I've also dipped my toes into robotics through Arduino projects.
 	</div>
 
 	<div class="column">
-		<img src="images/alg.png">
+		<img src=".images/alg.png">
 		<h2>The Apprentice's Last Groove (2017)</h2>
 	</div>
 </div>
