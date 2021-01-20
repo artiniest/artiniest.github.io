@@ -35,3 +35,5 @@ The project had been ongoing for some time already when I joined the team at Ran
 * Two months of QA; playing through all adventures, storylines and encounters with all possible character combinations, and fixing the issues I'd find
 
 ## Links & Videos
+
+<iframe src="https://store.steampowered.com/widget/1139870/" frameborder="0" width="646" height="190"></iframe>
